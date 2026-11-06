@@ -4,7 +4,6 @@
 **Matriculation Number:** 12319879  
 **Course:** Applied Deep Learning  
 **Assignment:** Assignment 1: Initiate  
-**Project Type:** Bring Your Own Method
 
 ---
 
